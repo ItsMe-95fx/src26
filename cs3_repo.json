@@ -1,0 +1,8 @@
+{
+  "name": "CS3 Repo (src26)",
+  "description": "English, Hindi",
+  "manifestVersion": 2,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/ItsMe-95fx/src26/refs/heads/main/plugins.json"
+  ]
+}
