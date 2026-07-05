@@ -1,0 +1,114 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
+    "status": 1,
+    "version": 460,
+    "name": "CineStream",
+    "internalName": "CineStream",
+    "authors": [
+      "megix"
+    ],
+    "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+    "fileSize": 666168,
+    "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+    "language": "en",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "AsianDrama",
+      "Anime",
+      "Torrent"
+    ],
+    "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-c12761e3bdca305b8d0dba95ff33634eb7084c5b10178e7265ba1b8f5c63558a"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
+    "fileHash": "sha256-ac1d1ca1a5949c9dad10e173df0a18c901251955955fa991638b02de638cac79",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
+    "fileSize": 52604,
+    "status": 1,
+    "language": "hi",
+    "authors": [
+      "Sushan64"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 43,
+    "internalName": "Netmirror",
+    "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+    "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
+    "name": "Netmirror"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+    "status": 1,
+    "version": 653,
+    "name": "StreamPlay",
+    "internalName": "StreamPlay",
+    "authors": [
+      "Phisher98",
+      "Hexated"
+    ],
+    "description": "#1 best extention based on MultiAPI",
+    "fileSize": 954936,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "en",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Anime",
+      "Movie",
+      "Cartoon",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+    "apiVersion": 1,
+    "fileHash": "sha256-c525352616be6a526670ac9b2e1ca8a78a98083dbe5b725c07c9f0886dd5a22f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",
+    "status": 1,
+    "version": 7,
+    "name": "Tamilblasters",
+    "internalName": "Tamilblasters",
+    "authors": [
+      "rockhero1234,phisher98"
+    ],
+    "description": "Movies & Series",
+    "fileSize": 20128,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "ta",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://i.postimg.cc/FRwFFtyT/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-c8a173b746523ec7f3582fae6a64c425b54f2ea846d496e26ae0aea500f9a218"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
+    "status": 2,
+    "version": 55,
+    "name": "Ultima",
+    "internalName": "Ultima",
+    "authors": [
+      "RowdyRushya,Phisher98"
+    ],
+    "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
+    "fileSize": 243704,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "en",
+    "tvTypes": [
+      "All"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
+    "apiVersion": 1,
+    "fileHash": "sha256-4453f0dc3059b23cebcb0b2d6c8ebb637bb16975c03b1503c27ce4974a4462dd"
+  }
+]
