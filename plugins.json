@@ -25,10 +25,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
-    "fileHash": "sha256-d995cd78a8741f563c57260ca19a9db28511cd74663016d84a9e8ef4bdbdb5c5",
+    "fileHash": "sha256-8f277cbeb43a2a79329d88c684fa0109511323987919543cdfed224a8d5463b9",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-    "fileSize": 53689,
+    "fileSize": 52923,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -47,7 +47,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 653,
+    "version": 654,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -55,7 +55,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 954936,
+    "fileSize": 953098,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -68,7 +68,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-c525352616be6a526670ac9b2e1ca8a78a98083dbe5b725c07c9f0886dd5a22f"
+    "fileHash": "sha256-a7c41d035e139d907e8fdc3e4cdc9e060e78166ca87d76bb4fc7877ff661ca01"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",
