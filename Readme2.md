@@ -4,7 +4,7 @@
 
 1. Add this repository URL:
    ```
-   https://raw.githubusercontent.com/ItsMe-95fx/src26/refs/heads/main/cs3_repo.json
+   https://raw.githubusercontent.com/ItsMe-95fx/src26/refs/heads/main/001-cs3_repo.json
    ```
 
 
