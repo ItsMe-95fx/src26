@@ -9,7 +9,7 @@
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 666168,
+    "fileSize": 666217,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -21,14 +21,14 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c12761e3bdca305b8d0dba95ff33634eb7084c5b10178e7265ba1b8f5c63558a"
+    "fileHash": "sha256-b5161664ecaf802b0e872a9fb449385494e4c67704f79a3c9846330d6f6675a0"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
-    "fileHash": "sha256-fb585c93c71bedbc53995977c4c3165b12641ccb439370818b1bf037fe1ab8db",
+    "fileHash": "sha256-d995cd78a8741f563c57260ca19a9db28511cd74663016d84a9e8ef4bdbdb5c5",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-    "fileSize": 52566,
+    "fileSize": 53689,
     "status": 1,
     "language": "hi",
     "authors": [
