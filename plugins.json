@@ -2,14 +2,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 462,
+    "version": 464,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 685389,
+    "fileSize": 705295,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -21,14 +21,14 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-45df72e3f6f6307bca744a5a12d531bc30bd0171b9f634b60faa5bd7d5f81154"
+    "fileHash": "sha256-c76dde95818998309be7e05c6955227c250209005f399970dfc9bf9421faa16b"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
-    "fileHash": "sha256-041ca4f412e9ef5d3cf1eb30f069691d2643316d2cdf660aac65b6657cb68394",
+    "fileHash": "sha256-128532c82a7d06dba05da09d7cc4c34245e612c07185b48990200d474685b381",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-    "fileSize": 64552,
+    "fileSize": 64565,
     "status": 1,
     "language": "hi",
     "authors": [
