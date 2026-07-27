@@ -24,15 +24,15 @@
     "fileHash": "sha256-939fd4047359b34141e341e97fc946a2f6e7573551795d8e2b9205f582f88601"
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
-    "fileHash": "sha256-128532c82a7d06dba05da09d7cc4c34245e612c07185b48990200d474685b381",
+    "iconUrl": "https://raw.githubusercontent.com/nirmaleeswar30/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
+    "fileHash": "sha256-e53fa0f0be1c8ed1518c4fed95e85ae8af96a85b86cd3d6f10c5befe2056b467",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-    "fileSize": 64565,
+    "fileSize": 37594,
     "status": 1,
     "language": "hi",
     "authors": [
-      "Sushan64"
+      "nirmaleeswar30"
     ],
     "tvTypes": [
       "Movie",
@@ -55,7 +55,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 999387,
+    "fileSize": 1000740,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -68,7 +68,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-ee8e493f7dc4489b011a2ee7a6ae06cf4acec1e152bf7c4eaf51e3b8d3570221"
+    "fileHash": "sha256-c451f5d9aeba261c3ad2d2703596d27deaf11ac757685026caa8635d5b8216a9"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",
