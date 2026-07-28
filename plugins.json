@@ -9,7 +9,7 @@
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 727416,
+    "fileSize": 726936,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -21,7 +21,7 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-99da882ea3d111854bd6ba2fea0204feb9d264905e4db4edc7bfff221b0da5b3"
+    "fileHash": "sha256-be77e538a4577cfc7ce30046ecfc00d1428d36e7e93554d29540f1ce50650266"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/nirmaleeswar30/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
@@ -47,7 +47,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 656,
+    "version": 657,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -55,7 +55,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1000935,
+    "fileSize": 1000964,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -68,19 +68,19 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-6b27b60aba482984111c20c599bb5c184767f9dfc842c736f3918316cb1aa305"
+    "fileHash": "sha256-960988c437506f1e02346cf9325eacaafe362b6d36d99bb2751cdba7c0f7666c"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "Tamilblasters",
     "internalName": "Tamilblasters",
     "authors": [
       "rockhero1234,phisher98"
     ],
     "description": "Movies & Series",
-    "fileSize": 20125,
+    "fileSize": 20153,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "ta",
     "tvTypes": [
@@ -89,7 +89,7 @@
     ],
     "iconUrl": "https://i.postimg.cc/FRwFFtyT/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-80aa24de6921bfeb97d07c65585298e4f10888d5b61c11608a573e814d2ac69b"
+    "fileHash": "sha256-a8b79e4485117dffe7adce936b5b981a022858548ffff5272c859637d66df525"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
