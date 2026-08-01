@@ -47,7 +47,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 657,
+    "version": 658,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -55,7 +55,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1000964,
+    "fileSize": 1003473,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -68,7 +68,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-960988c437506f1e02346cf9325eacaafe362b6d36d99bb2751cdba7c0f7666c"
+    "fileHash": "sha256-e6655d26146851000b73d1fbd8aeb33a1043ef447eb2e2195bdcef75543fedcb"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",
@@ -101,7 +101,7 @@
       "RowdyRushya,Phisher98"
     ],
     "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-    "fileSize": 172119,
+    "fileSize": 171784,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -109,6 +109,6 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-b4d42bbfc053c70fd8b308eb3aec9448f731f39266e92aceb846192711c1cdc3"
+    "fileHash": "sha256-5081f87ebc4e8b2c9d66b7b7713d38deb730508fb856802dec3b0a5c07f7078a"
   }
 ]
