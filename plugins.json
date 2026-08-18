@@ -25,10 +25,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
-    "fileHash": "sha256-592f46be2422589efeb2dc09815b03baed6e4390bb3f3040936aa8b3307fbc65",
+    "fileHash": "sha256-e64f3bf8e62dd7bc25e3fd1900524f8f730e50807744eac9c5de38367762f057",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-    "fileSize": 78599,
+    "fileSize": 83902,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -38,7 +38,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 43,
+    "version": 46,
     "internalName": "Netmirror",
     "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
     "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
@@ -55,7 +55,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1002794,
+    "fileSize": 1015525,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -68,7 +68,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-f27198a590c8a1728db2ea7f6d99c9226feee10b6f3f7756d95fca7cc6850d3e"
+    "fileHash": "sha256-ea0b318366253dcf0e2f1d3365f42d0fa99a98b4c2c11aa93888971e7c9ab800"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",
