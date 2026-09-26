@@ -47,7 +47,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 673,
+    "version": 676,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -55,7 +55,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1620376,
+    "fileSize": 1674669,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -68,19 +68,19 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-b7ec0b64528c9fdff487209d262d1c098e1caf958843b535635d5c16dc869e7e"
+    "fileHash": "sha256-0d364a1eca8d3992fea1135b002f70550afd23c764bdff9a65ed01c9e83ec934"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "Tamilblasters",
     "internalName": "Tamilblasters",
     "authors": [
       "rockhero1234,phisher98"
     ],
     "description": "Movies & Series",
-    "fileSize": 52314,
+    "fileSize": 64348,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "ta",
     "tvTypes": [
@@ -89,7 +89,7 @@
     ],
     "iconUrl": "https://i.postimg.cc/FRwFFtyT/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-7eb2b81974bcee3a82ec5580fadb3b99f230de99dc9555d724ba038017f9ecc3"
+    "fileHash": "sha256-3ca2ec27d7a548e7bd42781351fb3d3db1a11778b360300369198725ba00a37e"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
