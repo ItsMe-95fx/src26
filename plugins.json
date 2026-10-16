@@ -47,7 +47,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 691,
+    "version": 692,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -55,7 +55,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 2040434,
+    "fileSize": 2060349,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -68,7 +68,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-879548f977f7f1060c76417e6e38c1dbadc9056109df2b6d83105bcb10a66f56"
+    "fileHash": "sha256-b09e5fa2ef8ac2cf6d93a4015e695d787a71f91765bf8176720e542bb645307b"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",
