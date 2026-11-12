@@ -47,7 +47,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 701,
+    "version": 709,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -55,7 +55,7 @@
       "Hexated"
     ],
     "description": "#1 best extension based on MultiAPI",
-    "fileSize": 2133620,
+    "fileSize": 2181036,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -68,7 +68,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-1263d1e738686b2fb06bd71bc992fea7cd77651d398d9b2ee72adaa3c6da0b87"
+    "fileHash": "sha256-b4ad26b1d2f18cd30450e4dd75242dd8bfcaf475e30dcca4924613abe9f5397e"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",
@@ -80,7 +80,7 @@
       "rockhero1234,phisher98"
     ],
     "description": "Movies & Series",
-    "fileSize": 58402,
+    "fileSize": 58708,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "ta",
     "tvTypes": [
@@ -89,19 +89,19 @@
     ],
     "iconUrl": "https://i.postimg.cc/FRwFFtyT/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d6fd80d7b88cc5c1723cb87cb698d6f98a58646a5d0f67768ed81f4559938d1c"
+    "fileHash": "sha256-a0c005e97f7bba0c4a107e2778ee21a5696121079bf95daf11d83850e69875b2"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
     "status": 2,
-    "version": 70,
+    "version": 71,
     "name": "Ultima",
     "internalName": "Ultima",
     "authors": [
       "RowdyRushya,Phisher98"
     ],
     "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-    "fileSize": 330984,
+    "fileSize": 385587,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -109,6 +109,6 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-06970002a3e21b4b62a93a45eb44200593d0a041df16b5d20b8b749682a6adc3"
+    "fileHash": "sha256-af2fd9e0db45f2d6aa77a7e55833aaafae4242f16913a6786ca31821e29b9cef"
   }
 ]
