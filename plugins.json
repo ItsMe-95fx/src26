@@ -55,7 +55,7 @@
       "Hexated"
     ],
     "description": "#1 best extension based on MultiAPI",
-    "fileSize": 2191950,
+    "fileSize": 2212733,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -68,7 +68,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-9a9e5f073d5e2b179cbeebf508509d615c89eef315609db78667a46e94f28808"
+    "fileHash": "sha256-e0603107e4ca259dc19b2dcb887b876f7e61ff0e35d249c7ba52fecc76c25e6d"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",
@@ -80,7 +80,7 @@
       "rockhero1234,phisher98"
     ],
     "description": "Movies & Series",
-    "fileSize": 58708,
+    "fileSize": 82014,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "ta",
     "tvTypes": [
@@ -89,7 +89,7 @@
     ],
     "iconUrl": "https://i.postimg.cc/FRwFFtyT/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a0c005e97f7bba0c4a107e2778ee21a5696121079bf95daf11d83850e69875b2"
+    "fileHash": "sha256-e2e7a4584cfe22a0e97b5160913363ffe07420dbc9434c7e6596147e63a65e9a"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
@@ -101,7 +101,7 @@
       "RowdyRushya,Phisher98"
     ],
     "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-    "fileSize": 387200,
+    "fileSize": 410069,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -109,6 +109,6 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-f92bf9230fdececabccece68ee369247f3b22867d63781d4ee2e8ec76a66f031"
+    "fileHash": "sha256-7dd87a8bf60dd69924b894611571718baa23bdd922c3d97cd921813bda3c1ee3"
   }
 ]
